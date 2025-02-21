@@ -11,19 +11,9 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                script {
-                    checkout([
-                        $class: 'GitSCM', 
-                        branches: [[name: '*/main']], // Asegurar que usa main
-                        userRemoteConfigs: [[
-                            url: 'https://github.com/Alejandro-Polo/Proyecto-LDAP.git',
-                            credentialsId: 'CREDENTIALS_GITHUB_TEST' // Asegurar que Jenkins use las credenciales
-                        ]]
-                    ])
-                }
+                git 'https://github.com/Alejandro-Polo/Proyecto-LDAP.git'
             }
         }
-    }
 
         stage('Terraform Init') {
             steps {
@@ -48,3 +38,4 @@ pipeline {
             }
         }
     }
+}
