@@ -1,0 +1,4 @@
+aws_access_key_id     = "ASIATGM4FEILYJRPK3IS"
+aws_secret_access_key = "47IGUPkkcXjXZr7mBBIVjlkXA+TKKyra+YwkcYvw"
+aws_session_token     = "IQoJb3JpZ2luX2VjELH//////////wEaCXVzLXdlc3QtMiJHMEUCIDER27tcGWkwxbk9G6ijh2b+673HTbTxSyQg5MAwQZTqAiEAoVJag/g3D1ndi2HgmEWBcpN+mmn2R3SieM+b4n2Fft8qugII2v//////////ARABGgwyMTk5MDc2OTUxMjciDD4g3ll47Cl2088FZSqOAiMhIU5x8J73z9PQ+qYq+TM39fAz1tPVKtAkWWK+vVd79QSuw2nTRtGm+D2wIPbVcMF2OazriAuJWN+o24maSzgWNcF95EVjkzXfZLERc68N3wq3ptrTCJIFUbrNCKmdNMR7xIi5usoamncR6eRB6K6CXkyjj3mFz0QbukSIIx8/eGYoNJp4xP/UB1CHqsasfmFcfxKIy1iKvzHpFbigWlL/M8jFDQ8Fhbr9mjtFv68cHrPCAai+/UrPXPNJe3TCas+4c2QL8fbDLkW6oIr2GErubExgmwK3m7k8MQi0tGgAOseUldCluvJ69C6fcFVZud4E19kQkBw+z4Ec6D2IDchvMNXk8iwtkaw+XogyDDD72OK9BjqdAU67ApgOE55RXyKNymhheymPMPUWHzypXjCgqMVWI+hV4XFyYaskfupZIkJY7WKDtPudlPr1CbB2M+JQEkodgY1p9aODC2go85VB8p49aRK+NBSEDpzZ0F9ZgEhLA0UldS6L40OBv5rRHSrxRnaVJHVxngholE9sEHM3saRKYx8skCpYxNpyuTydOcVt8RS/iPoq9tVk36bb4wngF+4="
+aws_region           = "us-east-1"
